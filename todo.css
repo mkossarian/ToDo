@@ -1,0 +1,19 @@
+body {
+    background: #4682B4;
+    color: #FFEFD5;
+}
+
+#new_task {
+    background-color: #F0FFFF;
+    color: #4682B4;
+    width: 100px;
+    box-shadow: 5px 5px 5px #888;
+}
+
+h1 {
+    font-size:50px;
+}
+
+p {
+    color: red;
+}
